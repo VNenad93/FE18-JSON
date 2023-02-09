@@ -1,0 +1,85 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "job_title": "Software Engineer",
+        "salary": 100000
+      },
+      {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "job_title": "Product Manager",
+        "salary": 90000
+      },
+      {
+        "id": 3,
+        "first_name": "Bob",
+        "last_name": "Johnson",
+        "email": "bob.johnson@example.com",
+        "job_title": "Data Scientist",
+        "salary": 110000
+      },
+      {
+        "id": 4,
+        "first_name": "Amy",
+        "last_name": "Williams",
+        "email": "amy.williams@example.com",
+        "job_title": "UX Designer",
+        "salary": 85000
+      },
+      {
+        "id": 5,
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "email": "michael.brown@example.com",
+        "job_title": "DevOps Engineer",
+        "salary": 115000
+      },
+      {
+        "id": 6,
+        "first_name": "Emily",
+        "last_name": "Davis",
+        "email": "emily.davis@example.com",
+        "job_title": "Product Manager",
+        "salary": 90000
+      },
+      {
+        "id": 7,
+        "first_name": "William",
+        "last_name": "Miller",
+        "email": "william.miller@example.com",
+        "job_title": "Software Engineer",
+        "salary": 100000
+      },
+      {
+        "id": 8,
+        "first_name": "Ashley",
+        "last_name": "Wilson",
+        "email": "ashley.wilson@example.com",
+        "job_title": "Data Analyst",
+        "salary": 75000
+      },
+      {
+        "id": 9,
+        "first_name": "David",
+        "last_name": "Moore",
+        "email": "david.moore@example.com",
+        "job_title": "Product Designer",
+        "salary": 80000
+      },
+      {
+        "id": 10,
+        "first_name": "Sophia",
+        "last_name": "Taylor",
+        "email": "sophia.taylor@example.com",
+        "job_title": "Full Stack Developer",
+        "salary": 110000
+      }
+    ]
+}
+  
